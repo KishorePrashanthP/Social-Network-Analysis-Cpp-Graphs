@@ -2,6 +2,8 @@
 
 This project allows users to find the number of mutual followers between two accounts, recommend friends, find the number of followers, find how distant two accounts are, and see how well the user is connected to other users on the platform.
 
+![image](https://user-images.githubusercontent.com/88100231/182009757-2f341960-1772-4018-8ab0-bff70d5cba11.png)
+
 ### **Advanced Data Structure Used**
 #### **Graphs**
 Graphs can be used to represent the relationship between multiple entities. We can convert the data into graph nodes and run the necessary queries to find the answers.
